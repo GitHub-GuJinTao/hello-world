@@ -1,2 +1,2 @@
 # hello-world
-hello-world,I'm zhbit 'student
+hello-world,I'm a student of zhbit!
